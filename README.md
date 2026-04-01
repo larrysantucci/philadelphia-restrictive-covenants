@@ -2,8 +2,6 @@
 
 A spatial dataset documenting racially restrictive covenants in 20th-century Philadelphia, constructed from historical deed records at the Philadelphia Department of Records.
 
-**Author:** Larry Santucci, Federal Reserve Bank of Philadelphia
-
 > The views expressed here are solely those of the author and do not necessarily reflect the views of the Federal Reserve Bank of Philadelphia or the Federal Reserve System.
 
 ---
